@@ -1,5 +1,5 @@
-// MY CODE FOR CODE CHALLENGE 1
-/*var username = "gayers"; 
+// CODE FOR CODE CHALLENGE 1
+var username = "gayers"; 
 var age = 25;
 var loggedIn = true;
 
@@ -7,7 +7,7 @@ if(loggedIn){
 	console.log("My name is " + username + " and I am " + age + " years old");
 } else{
 	console.log("Please log in to see the message.");
-}*/
+}
 
 
 
@@ -45,7 +45,7 @@ while(number < 50){
 }*/
 
 // CODE CHALLENGE 4
-var user = {
+/*var user = {
 	name: "Gia",
 	lastName: "Ayers"
 };
@@ -54,4 +54,4 @@ function greet(user){
 	console.log("Hello, " + user.name + " " + user.lastName + " welcome back!");
 }
 
-greet(user);
+greet(user);*/
